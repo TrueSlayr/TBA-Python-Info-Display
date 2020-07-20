@@ -4,7 +4,7 @@ from pytba import api as tba
 #End Imports
 
 #Begin API Key Verification
-tba = tbapy.TBA('INSERT TBA API KEY HERE')
+tba = tbapy.TBA('(tba api key here)')
 #End API Key Verification
 
 team_number_provided = input("Input Team Number: ")
